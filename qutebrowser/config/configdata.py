@@ -1685,6 +1685,9 @@ KEY_DATA = collections.OrderedDict([
         ('tab-pin', ['<Ctrl-p>']),
         ('record-macro', ['q']),
         ('run-macro', ['@']),
+        ('tree-tab-promote', ['zp']),
+        ('tree-tab-demote', ['zd']),
+        ('tree-tab-rotate-up', ['zu']),
     ])),
 
     ('insert', collections.OrderedDict([
